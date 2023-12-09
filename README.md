@@ -26,6 +26,8 @@ This project involves building a simple single-page CRUD (Create, Read, Update, 
 
 While you could technically complete the project without following along with the recommended structure here, we would want to see things broken down into different components like this (otherwise every project would have like 10K lines of code in App.js). Part of the work here will be figuring out how the pieces connect.
 
+Hint: [You may want to check out this link](https://react.dev/learn/sharing-state-between-components).
+
 ### Data Flow
 
 - **Create:** Input package details in PackageForm to add to the state.
